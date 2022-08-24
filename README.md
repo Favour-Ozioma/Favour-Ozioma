@@ -6,5 +6,5 @@
 - 👯 I’m looking to collaborate on Cloud and Infrastructure tools that make deployment faster, more reliable and more secure
 - 💬 Ask me about career transition into tech and career growth in Cloud
 - 📫 How to reach me:
-  :linkedin: <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=favour-dilichukwu-ozioma" target="_blank">Follow on LinkedIn</a>
-   :email: favour_ozioma@outlook.com
+  <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=favour-dilichukwu-ozioma" target="_blank">Follow on LinkedIn</a>
+  :email: favour_ozioma@outlook.com
